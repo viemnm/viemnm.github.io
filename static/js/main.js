@@ -25,6 +25,7 @@ $(document).ready(function (e) {
         var url_list = url.split("#")
         window.location.href = url_list[0] + "#" + viewName
         showView(viewName);
+        $('html,body').scrollTop(0);
     });
 
 });
