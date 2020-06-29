@@ -1,0 +1,90 @@
+.hor-center {
+   position:absolute;
+   left:50%;
+}
+.quote-intro{
+
+    max-width: 500px;
+    text-align: center;
+    margin: auto;
+}
+}
+nav li a{
+    color: white
+}
+#home .card{
+    border: none;
+    border-radius: unset;
+}
+#home img{
+    width: 100vw;
+    min-height: calc(100vh - 234px);
+    max-height: calc(100vh - 234px);
+}
+
+#home h1{
+    text-align: center;
+}
+#home .card-img-overlay{
+    width: 100vw;
+}
+
+footer *{
+    color: white;
+    text-decoration: underline;
+}
+footer .col-sm{
+    min-width:200px;
+}
+
+#service li {
+    background: url(../images/short_logo.png);
+    height: 32px;
+    padding-left: 44px;
+    list-style: none;
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 1.2em;
+    margin-left: 28%;
+    display: inline-block;
+}
+
+.service-title{
+    margin-left: 28%;
+    padding-left: 40px;
+}
+
+.work-btn {
+    background: #343a40;
+    border: solid white 2px;
+    border-radius: 0;
+    color: white;
+    height: 40px;
+    margin-top: -20px;
+}
+.vh-icon {
+    background: url(../images/short_logo.png);background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 1.2em;
+    font-size: 25px;
+}
+
+#work_with_us p{
+
+    padding-left: 44px;
+}
+#work_with_us .col-6{
+
+
+    max-width: 400px;
+}
+
+.cop img{
+    height: 100%;
+}
+
+
+.about-info{
+    color: gray;
+    font-size: 20px;
+}
